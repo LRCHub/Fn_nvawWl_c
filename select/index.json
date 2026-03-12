@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ババロア",
+  "base_artist": "Spitz",
+  "createdAt": "2026-03-12T00:10:17.976332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ババロア (Bavaroa)",
+      "artist": "TAK feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_ババロア_(Bavaroa)_TAK_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ババロア",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_ババロア_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ババロア",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_ババロア_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ババロア",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_ババロア_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ババロア",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_ババロア_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ババロア",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_ババロア_スピッツ.txt"
+    }
+  ]
+}
